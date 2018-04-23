@@ -1,0 +1,6 @@
+insert into device values
+	(16,'',88111222,'Siemens, SIMATIC, S7-200','IM151-8 PN/DP CPU','Mouser Factory','Original Siemens Equipment','172.17.0.1',102),
+	(15,'',88111222,'Siemens, SIMATIC, S7-200','IM151-8 PN/DP CPU','Mouser Factory','Original Siemens Equipment','172.17.0.1',102),
+	(14,'',88111222,'Siemens, SIMATIC, S7-200','IM151-8 PN/DP CPU','Mouser Factory','Original Siemens Equipment','172.17.0.1',102),
+	(13,'',88111222,'Siemens, SIMATIC, S7-200','IM151-8 PN/DP CPU','Mouser Factory','Original Siemens Equipment','172.17.0.1',102)
+;
