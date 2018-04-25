@@ -125,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.devices_user_passwords">
+  <component name="RunManager" selected="Python.plcscan_trazak">
     <configuration name="devices_user_passwords" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="trazak" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,8 +168,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.devices_user_passwords" />
         <item itemvalue="Python.plcscan_trazak" />
+        <item itemvalue="Python.devices_user_passwords" />
       </list>
     </recent_temporary>
   </component>
