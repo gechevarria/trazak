@@ -386,7 +386,7 @@ def AddOptions(parser):
     group.add_option("--dst-tsap", help="Try this dst-tsap (list) (default: 0x102,0x200,0x201)", type="string", metavar="LIST")
     parser.add_option_group(group)
 
-"""TRAZAK extracto information from the list in order to store it"""
+"""TRAZAK extract information from the list in order to store it"""
 def StoreDevicesData (res,ip,port):
     module_oem_id = 7
     module_serial = 5

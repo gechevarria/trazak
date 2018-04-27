@@ -11,3 +11,6 @@ Steps to set up an running.
 PLCSCAN (https://github.com/meeas/plcscan)
 Python tool to extract devices information by using p7 and modbus protocols.
 Open Pycharm and execute plcscan_trazak.py by setting an IP or a set of IPs
+
+MARIADB (https://mariadb.org/)
+Relational database to store the devices' information.

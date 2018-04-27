@@ -8,7 +8,7 @@ def process_file_with_users_passwords():
     device_type = ""
     user_password = ""
     protocol = ""
-    with open('/home/MUSA/TRAZAK/ICSecurity/scadapass.csv', 'rb') as csvfile:
+    with open('/home/trazak/Software/ICSecurity/scadapass.csv', 'rb') as csvfile:
         csvReader = csv.reader(csvfile)
         for row in csvReader:
             """lista = list (spamreader)
