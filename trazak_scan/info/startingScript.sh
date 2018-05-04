@@ -1,0 +1,2 @@
+sudo docker start POSTGRES_CONTAINER
+sudo docker start PGADMIN4_CONTAINER
